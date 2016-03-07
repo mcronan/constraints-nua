@@ -68,11 +68,11 @@ p {
 /**** Media Queries *****/
 @media (min-width: 50px) {
 	p {
-		font-size: 300px;
+		font-size: 250px;
 	}
 }
 @media (max-width: 500px) {
 	p {
-		font-size: 300px;
+		font-size: 250px;
 	}
 }
