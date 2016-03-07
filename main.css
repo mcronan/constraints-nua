@@ -33,6 +33,10 @@ p:nth-child(7){
   animation: type2 7s steps(60, end);
 }
 
+p:nth-child(8){
+  animation: type2 8s steps(60, end);
+}
+
 
 p a{
   color: black;
