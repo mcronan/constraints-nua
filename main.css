@@ -78,9 +78,9 @@ p {
 /*@media handheld and (min-width: 290px) and (max-width: 900px) {
 */
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 980px) {
 	p {
-		font-size: 200px;
+		font-size: 7em;
 	}
 	div span {
 		display: block;
