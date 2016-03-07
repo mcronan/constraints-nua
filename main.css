@@ -73,10 +73,10 @@ p {
 	div span {
 		display: block;
 	}*/
-}
-@media (max-width: 500px) {
+/*}*/
+@media only screen and (min-width: 100px) and (max-width: 500px) {
 	p {
-		font-size: 250px;
+		font-size: 10em;
 	}
 	div span {
 		display: block;
