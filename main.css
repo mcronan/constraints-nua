@@ -78,7 +78,7 @@ p {
 /*@media handheld and (min-width: 290px) and (max-width: 900px) {
 */
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 1200px) {
 	p {
 		font-size: 200px;
 	}
