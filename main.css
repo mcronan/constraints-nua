@@ -64,3 +64,11 @@ p {
 
 ::selection{
   background: red;
+}
+
+/**** Media Queries *****/
+@media (max-width: 500px) {
+	p {
+		font-size: 100px;
+	}
+}
