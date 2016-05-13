@@ -37,6 +37,10 @@ p:nth-child(8){
   animation: type2 8s steps(60, end);
 }
 
+p:nth-child(9){
+  animation: type2 9s steps(60, end);
+}
+
 
 p a{
   text-decoration: none;
@@ -74,12 +78,17 @@ p {
   color: #0E3E84;
 }
 
-#rap {
+#sowhat {
   color: #11489A;
 }
 
-#writing {
+#rap {
   color: #5783C5;
+
+}
+
+#writing {
+  color: #009999;
 }
 
 #twitter {
@@ -97,6 +106,7 @@ p {
 #email {
   color: #4B9932;
 }
+
 
 
 /*** Media Queries ***/
